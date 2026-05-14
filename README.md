@@ -39,7 +39,7 @@ utils/ → Helper classes
 
 ### Clone the Repository
 
-git clone [https://github.com/malikarshid01430-byte/MadhuMarga.git](https://github.com/malikarshid01430-byte/MadhuMarga.git)
+git clone [https://github.com/sanjayA2004/MadhuMarga.git](https://github.com/sanjayA2004/MadhuMarga.git)
 
 ---
 
